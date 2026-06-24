@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Gamana.github.io/TaskMan",
+  "homepage": "https://Sadikcserymec077.github.io/TaskMan",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
